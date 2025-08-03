@@ -17,7 +17,6 @@ I'm a Senior FullStack Developer and Analyst passionate about automation, AI, an
 🧠 **I'm interested in:**
 
 - Artificial Intelligence in business
-- Low-code / no-code automation (n8n, Make, Zapier, Tilda API)
 - Telecommunications operator infrastructure
 - Educational technologies and a systematic approach to learning
 
