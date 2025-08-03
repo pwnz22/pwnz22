@@ -21,8 +21,9 @@ I'm a Senior FullStack Developer and Analyst passionate about automation, AI, an
 - Educational technologies and a systematic approach to learning
 
 📬 **Contact me**:
-parliament888@gmail.com
-[https://t.me/pwnz21](https://t.me/pwnz21)
+
+📧 parliament888@gmail.com
+💬 [https://t.me/pwnz21](https://t.me/pwnz21)
 
 ---
 
