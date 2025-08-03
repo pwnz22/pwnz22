@@ -4,7 +4,7 @@ I'm a Senior FullStack Developer and Analyst passionate about automation, AI, an
 
 🔧 **What I do:**
 
-- Backend development with **Laravel / Python / Node / Puppeteer / Selenium** (including REST API, authentication, custom modules, validation, and CI/CD)
+- Backend development with **Laravel / Python / Nodejs** (including REST API, authentication, custom modules, validation, and CI/CD)
 - Frontend with **Vue 3 / InertiaJS / TailwindCSS**
 - Development of admin panels, CRMs, and marketplaces
 - Integration with external APIs and payment systems
