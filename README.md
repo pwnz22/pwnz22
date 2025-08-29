@@ -27,4 +27,4 @@ I'm a Senior FullStack Developer and Analyst passionate about automation, AI, an
 
 ---
 
-_I don't have clients — I have partners. When they win, I win._
+_No clients here — just strategic allies. We win together or not at all._
